@@ -1,0 +1,16 @@
+{
+    "name": "your-app",
+    "version": "1.0.0",
+    "description": "Description of your app",
+    "main": "C:\\Users\\pinti\\OneDrive\\Área de Trabalho\\Nova pasta\\Aplicativo Desktop para envio de arquivos\\src\\main.js", 
+    "scripts": {
+      "start": "tauri dev",
+      "build": "tauri build"
+    },
+    "dependencies": {
+      
+    },
+    "devDependencies": {
+    }
+  }
+  
