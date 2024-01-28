@@ -1,7 +1,17 @@
-# Tauri + Vanilla
+# Batch File Sending Application (Still in Development) 🤔
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+This is a desktop application built with Tauri and React that allows users to send files in batches via email. 🖥️
 
-## Recommended IDE Setup
+## Features
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- **Batch File Sending:** Upload and send multiple files simultaneously.
+- **Email Integration:** Easily send files via email.
+- **Cross-Platform:** Built with Tauri, making it compatible with Windows, macOS, and Linux.
+
+## Technologies Used
+
+- **Tauri:** A framework for building desktop applications using web technologies.
+- **React:** A JavaScript library for building user interfaces.
+- **HTML/CSS:** Standard web technologies for UI development.
+
+(Still in development) 🤔
